@@ -1,1 +1,3 @@
 # GROUP-2-MECHATRONICS-ENGINEERING-ICT-215-PROJECT
+This project is based on smart dustbin design that would be affordable for the everyday citizen as the existing solutions are to expensive for the common man to afford.
+It was developed by the students in group 2 of mechatronics engineering in bells university of technology for our Robotics project and we chose this topic to help in waste management and the overall environment as well as to reduce illnesses caused from microorganisms that are present in waste bins and can easily be transmitted through contact with the waste bin. Although the design may not be as complex as the existing ones, it's a simple solution that can be replicated at home by the common man.
